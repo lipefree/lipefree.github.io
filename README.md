@@ -1,4 +1,4 @@
 # Welcome page for the different projects : 
 
-# Cabat : Simple system to share cost of living
+# [Cabat](https://lipefree.github.io/Cabat): Simple system to share cost of living 
 
